@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Nazokat13
-- 👀 I’m interested in becoming a developer
-- 🌱 I’m currently learning how to use Git/Github
-- 💞️ I’m looking to collaborate on my upcoming projects
+- 👋 Hi, I’m Naz
+- 👀 I’m working as a Junior Web Developer
+- 🌱 I’m currently obtaining a Master's in Information Systems at Touro University in New York
 - 📫 How to reach me: via email naz.samandarova@gmail.com
 
 <!---
