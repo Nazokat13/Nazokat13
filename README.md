@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Naz
 - 👀 I’m working as a Junior Web Developer
-- 🌱 I’m currently obtaining a Master's in Information Systems at Touro University in New York
+- 🌱 I’m currently obtaining a Master of Science in Information Systems at Touro University in New York
 - 📫 How to reach me: via email naz.samandarova@gmail.com
 
 <!---
